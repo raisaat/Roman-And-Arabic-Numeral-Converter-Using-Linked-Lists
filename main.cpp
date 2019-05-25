@@ -1,8 +1,4 @@
 // RAISAAT ATIFA RASHID
-// Net ID: rar150430
-// CS 1337.001 - Project 5
-
-// DELETE ANY NODE
 
 #include <iostream>
 #include "LinkedList.h"
